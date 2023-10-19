@@ -10,4 +10,4 @@ This repository collects the jupyter notebook resources for the lecture series.
 
 Run these notebook talks online, interactively on mybinder.org:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aoeftiger/TUDa-NMAP-2023)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aoeftiger/TUDa-NMAP-2023/HEAD)
