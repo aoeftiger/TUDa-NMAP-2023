@@ -1,14 +1,23 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aoeftiger/TUDa-NMAP-2023/v1.0)
+
 # Numerical Methods in Accelerator Physics
 
-MSc lecture at TU Darmstadt, etit, TEMF by Adrian Oeftiger in 2023/24.
+MSc lecture series on numerical methods applied to the field of accelerator physics. The course is developed by Adrian Oeftiger and given at the Technical University of Darmstadt since 2022. 
 
-This repository collects the jupyter notebook resources for the lecture series.
+This repository provides the jupyter notebook resources for each lecture.
+
+---
+
+The rendered HTML slides of the notebooks are found here:
+
+- [lecture 1](https://aoeftiger.github.io/TUDa-NMAP-2023/lecture-01/)
+- [lecture 2](https://aoeftiger.github.io/TUDa-NMAP-2023/lecture-02/)
 
 ---
 
 ## Run online
 
-Run these notebook talks online, interactively on either
+Run these notebook talks online, interactively, on either
 
 * mybinder.org:
 
@@ -19,7 +28,6 @@ Run these notebook talks online, interactively on either
 [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/)
 
 ---
-
 
 ## Run locally
 
