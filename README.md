@@ -12,6 +12,7 @@ The rendered HTML slides of the notebooks are found here:
 
 - [lecture 1](https://aoeftiger.github.io/TUDa-NMAP-2023/lecture-01/lecture.slides.html)
 - [lecture 2](https://aoeftiger.github.io/TUDa-NMAP-2023/lecture-02/lecture.slides.html)
+- [lecture 3](https://aoeftiger.github.io/TUDa-NMAP-2023/lecture-03/lecture.slides.html)
 
 ---
 
@@ -21,11 +22,11 @@ Run these notebook talks online, interactively, on either
 
 * mybinder.org:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aoeftiger/TUDa-NMAP-2023/v2.0)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aoeftiger/TUDa-NMAP-2023/v3.0)
 
 * or gesis.org:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/aoeftiger/TUDA-NMAP-2023/v2.0)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/aoeftiger/TUDA-NMAP-2023/v3.0)
 
 ---
 
