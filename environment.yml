@@ -18,6 +18,7 @@ dependencies:
   - seaborn==0.12.1
   - rise==5.7.1
   - future==0.18.2
+  - mpmath
   - pip
   - pip:
     - PyNAFF==1.1.5
