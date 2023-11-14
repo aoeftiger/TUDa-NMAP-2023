@@ -19,6 +19,7 @@ dependencies:
   - rise==5.7.1
   - future==0.18.2
   - mpmath
+  - tqdm
   - pip
   - pip:
     - PyNAFF==1.1.5
