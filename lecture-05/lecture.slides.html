@@ -14925,9 +14925,9 @@ $$\sin\left(\varphi_s - \frac{2\pi}{C} h z\right) \approx \sin(\varphi_s) - \cos
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h2>Synchrotron Tune II</h2>
 <p>Therefore the linearised ODE of 2nd order (harmonic oscillator ODE) reads</p>
-$$\frac{dz^2}{ds^2}+\underbrace{\frac{\eta q V \cdot 2\pi h \cos(\varphi_s)}{p_0 \beta c C^2}}\limits_{\mathop{\equiv}\Omega_s^2}\cdot z = 0$$<div class="alert alert-block alert-success" style="text-align:center;">
+$$\frac{dz^2}{ds^2}+\underbrace{\frac{-\eta q V \cdot 2\pi h \cos(\varphi_s)}{p_0 \beta c C^2}}\limits_{\mathop{\equiv}\Omega_s^2}\cdot z = 0$$<div class="alert alert-block alert-success" style="text-align:center;">
 and the <b>linear synchrotron tune</b> $Q_s$ (longitudinal oscillations per turn) evaluates to <br /><br />
-$$Q_s^2=\frac{\omega_s^2}{\omega_\mathrm{rev}{}^2} = \frac{\Omega_s^2}{(2\pi/C)^2} = \frac{\eta h q V \cos(\varphi_s)}{2\pi p_0 \beta c}$$
+$$Q_s^2=\frac{\omega_s^2}{\omega_\mathrm{rev}{}^2} = \frac{\Omega_s^2}{(2\pi/C)^2} = \frac{-\eta h q V \cos(\varphi_s)}{2\pi p_0 \beta c}$$
 </div>
 
 </div>
@@ -15607,8 +15607,9 @@ class="
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2>Exercises based on Tracking</h2>
-<p>Modify the machine parameters and particle initial conditions to answer the following questions:</p>
+<h2 style="color: #e6541a;">Exercises based on Tracking</h2>
+<div style="color: #e6541a; margin-top: 2em;">
+Modify the machine parameters and particle initial conditions to answer the following questions: <br />
 <ol>
 <li>Do the Hamiltonian contours predict the tracked particle trajectories well?</li>
 </ol>
@@ -15624,7 +15625,7 @@ class="
 <ol start="4">
 <li>What happens to phase focusing at the transition energy $\gamma=\gamma_\mathrm{t}$? Can you explain why? (Think of the phase slippage mechanism.)</li>
 </ol>
-<hr />
+</div>
 <p>$\implies$ please make sure you understand and note down the answers to these questions: the concepts are central to accelerator physics and relevant for the exam.</p>
 
 </div>
