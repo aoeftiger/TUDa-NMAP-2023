@@ -4,7 +4,7 @@ channels:
 dependencies:
   - python=3.10
   - nodejs=18
-#  - ipywidgets==8.*   # https://github.com/jupyter-widgets/ipywidgets
+  - ipywidgets==8.*   # https://github.com/jupyter-widgets/ipywidgets
 #  - jupyter-offlinenotebook==0.2.*   # https://github.com/manics/jupyter-offlinenotebook
 #  - jupyter-resource-usage==0.7.*   # https://github.com/jupyter-server/jupyter-resource-usage
 #  - jupyter_server==1.*   # https://github.com/jupyter-server/jupyter_server
