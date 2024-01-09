@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aoeftiger/TUDa-NMAP-2023/v8.0)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aoeftiger/TUDa-NMAP-2023/v10.0)
 
 # Numerical Methods in Accelerator Physics
 
@@ -18,6 +18,7 @@ The rendered HTML slides of the notebooks are found here:
 - [lecture 6](https://aoeftiger.github.io/TUDa-NMAP-2023/lecture-06/lecture.slides.html)
 - [lecture 7](https://aoeftiger.github.io/TUDa-NMAP-2023/lecture-07/lecture.slides.html)
 - [lecture 8](https://aoeftiger.github.io/TUDa-NMAP-2023/lecture-08/lecture.slides.html)
+- [lecture 10](https://aoeftiger.github.io/TUDa-NMAP-2023/lecture-10/lecture.slides.html)
 
 ---
 
@@ -27,11 +28,11 @@ Run these notebook talks online, interactively, on either
 
 * mybinder.org:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aoeftiger/TUDa-NMAP-2023/v8.0)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aoeftiger/TUDa-NMAP-2023/v10.0)
 
 * or gesis.org:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/aoeftiger/TUDA-NMAP-2023/v8.0)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/aoeftiger/TUDA-NMAP-2023/v10.0)
 
 ---
 
