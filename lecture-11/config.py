@@ -55,6 +55,7 @@ warnings.filterwarnings("ignore")
 #plt.rcParams['image.cmap'] = "viridis"
 plt.rcParams['image.interpolation'] = "none"
 plt.rcParams['savefig.bbox'] = "tight"
+plt.rcParams["axes.titley"] = 1.05
 
 SMALL_SIZE = 20
 MEDIUM_SIZE = 25
