@@ -35,3 +35,6 @@ dependencies:
     - scikit-image==0.19.3
     - pillow==9.2.0
     - longitudinal-tomography==3.4.3
+    - tensorflow-cpu==2.11.0
+    - prettytable==3.6.0
+    - stable_baselines3==2.2.1
