@@ -6,6 +6,8 @@ MSc lecture series on numerical methods applied to the field of accelerator phys
 
 This repository provides the jupyter notebook resources for each lecture.
 
+The [wrap-up slides](https://raw.githubusercontent.com/aoeftiger/TUDa-NMAP-2023/main/wrapup.pdf) contain an overview of the course as provided at the end of the lecture series.
+
 ---
 
 The rendered HTML slides of the notebooks are found here:
